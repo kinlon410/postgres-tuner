@@ -15,7 +15,7 @@ PostgreSQL Tuner 是一个基于C语言编写的调优工具，用于收集Postg
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/kinlon/pg-tuner.git
+git clone [https://github.com/kinlon/pg-tuner.git](https://github.com/kinlon410/pg-tuner.git)
 cd pg-tuner
 ```
 ### 2. 克隆项目
