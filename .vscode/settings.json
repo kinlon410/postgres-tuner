@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "data_collector.h": "c",
+        "recommendation_engine.h": "c",
+        "feature_engineer.h": "c"
+    }
+}
